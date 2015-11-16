@@ -3,7 +3,7 @@
     "name": "Brian Park",
     "email": "yaru22@gmail.com"
   },
-
+  "main": "./dist/angular-md.js",
   "name": "angular-md",
   "description": "Angular directive to render Markdown text. It's built on blazingly fast markdown parser 'marked'.",
   "version": "1.0.0",
